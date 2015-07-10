@@ -1,5 +1,7 @@
-int SizeX=472,
-SizeY=359;
+/* @pjs preload = "link.jpg";*/
+
+int SizeX=480,
+SizeY=270;
 PImage img;
 
 void setup()
