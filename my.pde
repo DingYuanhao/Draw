@@ -13,7 +13,7 @@ void setup()
 
 void draw()
 {
-  for (int i=0;i<1000;i++)
+  for (int i=0;i<10;i++)
   {
     int x = int(random(SizeX));
     int y = int(random(SizeY));
